@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanaka.MarsRobot", "Tanaka.MarsRobot\Tanaka.MarsRobot.csproj", "{EF0A9717-FF12-4437-B385-F4AADA0015AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanaka.MarsRobot.Tests", "Tanaka.MarsRobot.Tests\Tanaka.MarsRobot.Tests.csproj", "{9FDEF14B-319C-4A01-ADC8-9C74AF79A62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0A9717-FF12-4437-B385-F4AADA0015AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0A9717-FF12-4437-B385-F4AADA0015AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0A9717-FF12-4437-B385-F4AADA0015AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0A9717-FF12-4437-B385-F4AADA0015AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDEF14B-319C-4A01-ADC8-9C74AF79A62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDEF14B-319C-4A01-ADC8-9C74AF79A62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDEF14B-319C-4A01-ADC8-9C74AF79A62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDEF14B-319C-4A01-ADC8-9C74AF79A62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B4C797-4B41-4352-9506-AC1472839B76}
+	EndGlobalSection
+EndGlobal
